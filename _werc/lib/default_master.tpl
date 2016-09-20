@@ -34,7 +34,7 @@
 <footer class="page-footer black" style="padding-top: 0">
   <div class="footer-copyright">
     <div class="container">
-      <div class="left gelato-text">Powered by %(`{bullshit}%)</div>
+      <div class="left gelato-text"><a href="https://git.gelatolabs.xyz/gelato/www" class="gelato-text">Source code</a></div>
       <div class="right gelato-text">
         <a href="https://gelatolabs.xyz/tips" class="btn-flat waves-effect waves-gelato gelato-text" style="margin-right:0.5em;">tips</a>
         <a href="https://twitter.com/gelato_labs" class="gelato-text" style="margin-right:0.5em"><i class="mdi mdi-twitter"></i></a>
