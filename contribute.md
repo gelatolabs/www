@@ -28,7 +28,7 @@ Contribute
 
 <div class="card-panel">
   <h2 style="margin-top: 0">Code</h2>
-  <p>For larger games, our code is on git.</p>
+  <p>For larger games, as well as our website, our code is on git.</p>
   <p>Request push access on XMPP.</p>
   <a href="https://git.gelatolabs.xyz/gelato" class="btn waves-effect waves-light black">Go<i class="mdi mdi-arrow-right-bold right"></i></a>
 </div>
