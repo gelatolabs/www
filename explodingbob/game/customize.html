@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html id="html">
+<head>
+	<meta charset="utf-8">
+
+	<title>Customize - Exploding Bob</title>
+	<link rel="icon" type="image/ico" href="favicon.ico" />
+
+	<link rel="stylesheet" type="text/css" href="fa.css">
+	<link rel="stylesheet" type="text/css" href="buttons.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<script>
+/*
+ * 
+ * @licstart  The following is the entire license notice for the 
+ *  JavaScript code in this page.
+ * 
+ * Copyright (c) 2015 Kyle Farwell <kfarwell@member.fsf.org>
+ *
+ * Permission to use, copy, modify, and/or distribute this software for
+ * any purpose with or without fee is hereby granted, provided that the
+ * above copyright notice and this permission notice appear in all
+ * copies.
+ *
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES WITH
+ * REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+ * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY
+ * SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+ * OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ *
+ */
+	</script>
+
+	<div id="container">
+		<a class="pure-button" id="back" href="index.html">
+			<i class="fa fa-chevron-left"></i>
+			Back
+		</a>
+
+		<h1>Customize</h1>
+
+		<h2>Food</h2>
+		<button class="pure-button" id="hdefault" onclick="equipItem(this.id, 'burger')">Default</button>
+		<button class="pure-button" id="hcheeseburger" onclick="equipItem(this.id, 'burger')">Cheeseburger</button>
+		<button class="pure-button" id="hhotdog" onclick="equipItem(this.id, 'burger')">Hot Dog</button>
+		<button class="pure-button" id="hpopcorn" onclick="equipItem(this.id, 'burger')">Popcorn</button>
+		<button class="pure-button" id="hnachos" onclick="equipItem(this.id, 'burger')">Nachos</button>
+
+		<h2>Bob</h2>
+		<button class="pure-button" id="bdefault" onclick="equipItem(this.id, 'bob')">Default</button>
+		<button class="pure-button" id="banime" onclick="equipItem(this.id, 'bob')">Anime</button>
+		<button class="pure-button" id="bmovie" onclick="equipItem(this.id, 'bob')">Movie</button>
+		<button class="pure-button" id="balien" onclick="equipItem(this.id, 'bob')">Alien</button>
+		<button class="pure-button" id="bshinji" onclick="equipItem(this.id, 'bob')">Shinji</button>
+
+		<br /><br />
+
+		<div id="previewContainer" onclick="this.style.display = 'none'">
+			<img id="preview" />
+		</div>
+	</div>
+
+	<script src="preload.js"></script>
+	<script src="cookies.js"></script>
+	<script src="index.js"></script>
+	<script src="customize.js"></script>
+</body>
+</html>

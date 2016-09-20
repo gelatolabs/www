@@ -1,0 +1,2 @@
+conf_enable_blog .
+conf_enable_comments -a

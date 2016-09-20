@@ -1,0 +1,15 @@
+body {
+    background: url("../img/bgTitle.png") no-repeat center center fixed, #000;
+    background-size: contain;
+    -moz-background-size: contain;
+    -webkit-background-size: contain;
+    -o-background-size: contain;
+}
+
+a {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}

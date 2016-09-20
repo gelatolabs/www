@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html id="html">
+<head>
+	<meta charset="utf-8">
+
+	<title>Store - Exploding Bob</title>
+	<link rel="icon" type="image/ico" href="favicon.ico" />
+
+	<link rel="stylesheet" type="text/css" href="fa.css">
+	<link rel="stylesheet" type="text/css" href="buttons.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="store.css">
+</head>
+
+<body>
+	<script>
+/*
+ * 
+ * @licstart  The following is the entire license notice for the 
+ *  JavaScript code in this page.
+ * 
+ * Copyright (c) 2015 Kyle Farwell <kfarwell@member.fsf.org>
+ *
+ * Permission to use, copy, modify, and/or distribute this software for
+ * any purpose with or without fee is hereby granted, provided that the
+ * above copyright notice and this permission notice appear in all
+ * copies.
+ *
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES WITH
+ * REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+ * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY
+ * SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+ * OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ *
+ */
+	</script>
+
+	<div id="container">
+		<a class="pure-button" id="back" href="index.html">
+			<i class="fa fa-chevron-left"></i>
+			Back
+		</a>
+		<h2 id="coins"></h2>
+
+		<h1>Store</h1>
+
+		<h2>Food</h2>
+		<button class="pure-button" id="hcheeseburger" onclick="buyItem(this.id, 10)">Cheeseburger 10</button>
+		<button class="pure-button" id="hhotdog" onclick="buyItem(this.id, 15)">Hot Dog 15</button>
+		<button class="pure-button" id="hpopcorn" onclick="buyItem(this.id, 15)">Popcorn 15</button>
+		<button class="pure-button" id="hnachos" onclick="buyItem(this.id, 15)">Nachos 15</button>
+
+		<h2>Bob</h2>
+		<button class="pure-button" id="banime" onclick="buyItem(this.id, 20)">Anime 20</button>
+		<button class="pure-button" id="bmovie" onclick="buyItem(this.id, 20)">Movie 20</button>
+		<button class="pure-button" id="balien" onclick="buyItem(this.id, 20)">Alien 20</button>
+		<button class="pure-button" id="bshinji" onclick="buyItem(this.id, 1337)">Shinji 1337</button>
+	</div>
+
+	<script src="preload.js"></script>
+	<script src="cookies.js"></script>
+	<script src="index.js"></script>
+	<script src="store.js"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+nav .brand-logo {
+  left: 0;
+  transform: none;
+}
+
+.brand-logo img {
+  display: inline-block;
+  height: 1.5em;
+  margin-bottom: -0.4em;
+  margin-right: 0.6em;
+}
+
+#main-copy img {
+  max-width: 100%;
+}
+
+.gelato {
+  background-color: rgb(83, 254, 0) !important;
+}
+.gelato-text, #main-copy a {
+  color: rgb(83, 254, 0) !important;
+}
+.gelato-glow {
+  color: #fff !important;
+  text-shadow:rgb(255, 255, 255) 0px 0px 2px, rgb(255, 255, 255) 0px 0px 4px, rgb(255, 255, 255) 0px 0px 6px, rgb(83, 254, 0) 0px 0px 8px, rgb(83, 254, 0) 0px 0px 9px, rgb(83, 254, 0) 0px 0px 10px, rgb(83, 254, 0) 0px 0px 12px, rgb(83, 254, 0) 0px 0px 15px;margin:33.6px 0px 26.88px;
+}
+.waves-effect.waves-gelato .waves-ripple {
+  background-color: rgba(83, 254, 0, 0.7);
+}
+input:focus:not([type]):not([readonly]), input[type="text"]:focus:not([readonly]), input[type="password"]:focus:not([readonly]), input[type="email"]:focus:not([readonly]), input[type="url"]:focus:not([readonly]), input[type="time"]:focus:not([readonly]), input[type="date"]:focus:not([readonly]), input[type="datetime-local"]:focus:not([readonly]), input[type="tel"]:focus:not([readonly]), input[type="number"]:focus:not([readonly]), input[type="search"]:focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid rgb(83, 254, 0);
+  box-shadow: 0px 1px 0px 0px rgb(83, 254, 0);
+}
+
+.card-panel h1 {
+  margin: 0;
+}
+
+.card .card-content .card-title {
+  line-height: initial;
+}
+.card .card-content p {
+  margin-top: 12px;
+}
+
+.side-nav li a:hover {
+  background-color: transparent;
+}
+
+.dropdown-content {
+  min-width: 200px;
+}
+
+.dropdown-content li > a, .dropdown-content li > span {
+  color: rgb(83, 254, 0);
+}
+
+.parallax-container {
+  height: auto;
+  min-height: 500px;
+}
+
+.collection .collection-item.avatar {
+  min-height: 0;
+}
+
+.avatar-img {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+  left: 15px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.collection .collection-item .secondary-content .mdi {
+  font-size: 150%;
+}
+
+.infobox {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 40%;
+  height: calc(100% - 10vw);
+  margin: 5vw;
+  padding: 0.5em;
+  overflow-y: auto;
+}
+.infobox-right {
+  float: right;
+}
+.infobox a {
+  font-size: 70%;
+}
+
+.slider .indicators {
+  top: calc(31.25vw);
+  z-index: 10;
+}
+.slider .indicators .indicator-item.active {
+  background-color: rgb(83, 254, 0);
+}
+
+#main-copy ul li {
+  list-style-type: initial;
+}

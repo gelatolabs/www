@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>ePay</title>
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/epay.css" />
+</head>
+<body>
+	<script>
+/*
+ *
+ * @licstart  The following is the entire license notice for the
+ *	JavaScript code in this page.
+ *
+ * Copyright (c) 2015 Kyle Farwell <kfarwell@member.fsf.org>
+ * Copyright (c) 2015 Keefer Rourke <keefer.rourke@gmail.com>
+ *
+ * Permission to use, copy, modify, and/or distribute this software for
+ * any purpose with or without fee is hereby granted, provided that the
+ * above copyright notice and this permission notice appear in all
+ * copies.
+ *
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES WITH
+ * REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+ * MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY
+ * SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+ * OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+ *
+ * @licend	The above is the entire license notice
+ * for the JavaScript code in this page.
+ *
+ */
+
+	</script>
+
+	<img class="logo" src="img/epay.png"/>
+	<h1 id="cash"></h1>
+	<hr />
+
+	<div class="category">
+		<h2>Workplaces</h2>
+
+		<button class="btn" id="callcenter" onclick="buyItem(this.id, 750)"><table>
+			<td><img src="img/callcenter.png" /></td>
+			<td><span>Call Center</span><span>$750</span></td>
+		</table></button>
+
+		<button class="btn" id="cubicle" onclick="buyItem(this.id, 1500)"><table>
+			<td><img src="img/cubicle.png" /></td>
+			<td><span>Cubicle</span><span>$1500</span></td>
+		</table></button>
+
+		<button class="btn" id="yacht" onclick="buyItem(this.id, 3000)"><table>
+			<td><img src="img/yacht.png" /></td>
+			<td><span>Yacht</span><span>$3000</span></td>
+		</table></button>
+	</div>
+
+	<div class="category">
+		<h2>Tech</h2>
+
+		<button class="btn" id="new-computer" onclick="buyItem(this.id, 150)"><table>
+			<td><img src="img/computer.png" /></td>
+			<td><span>Replacement Computer</span><span>$150</span></td>
+		</table></button>
+
+		<button class="btn" id="phone2" onclick="buyItem(this.id, 300)"><table>
+			<td><img src="img/phone1.png" /></td>
+			<td><span>Rolamoto Phone</span><span>$300</span></td>
+		</table></button>
+
+		<button class="btn" id="phone3" onclick="buyItem(this.id, 500)"><table>
+			<td><img src="img/phone2.png" /></td>
+			<td><span>NIC Phone</span><span>$500</span></td>
+		</table></button>
+
+		<button class="btn" id="bbpi" onclick="buyItem(this.id, 300)"><table>
+			<td><img src="img/bbpi.png" /></td>
+			<td><span>Blueberry Pi</span><span>$300</span></td>
+		</table></button>
+
+		<button class="btn" id="thinkbad" onclick="buyItem(this.id, 500)"><table>
+			<td><img src="img/thinkbad.png" /></td>
+			<td><span>LeNOvo ThinkBad</span><span>$500</span></td>
+		</table></button>
+
+		<button class="btn" id="macbook-pear" onclick="buyItem(this.id, 1000)"><table>
+			<td><img src="img/macbook-pear.png" /></td>
+			<td><span>Pear-book Pro</span><span>$1000</span></td>
+		</table></button>
+
+		<button class="btn" id="computer-crt" onclick="buyItem(this.id, 2000)"><table>
+			<td><img src="img/computerCRT.png" /></td>
+			<td><span>BMI ThinkFull Justification</span><span>$2000</span></td>
+		</table></button>
+	</div>
+
+	<div class="category">
+		<h2>Decor</h2>
+
+		<button class="btn" id="hipsterglasses" onclick="buyItem(this.id, 300)"><table>
+			<td><img src="img/hipsterglasses.png" /></td>
+			<td><span>Hipster Glasses</span><span>$300</span></td>
+		</table></button>
+
+		<button class="btn" id="painting" onclick="buyItem(this.id, 5000)"><table>
+			<td><img src="img/painting.png" /></td>
+			<td><span>Copy of a Masterpiece</span><span>$5000</span></td>
+		</table></button>
+
+		<button class="btn" id="painting1" onclick="buyItem(this.id, 10000)"><table>
+			<td><img src="img/painting1.png" /></td>
+			<td><span>Copy of a Work of Art</span><span>$10000</span></td>
+		</table></button>
+
+		<button class="btn" id="sticky1" onclick="buyItem(this.id, 10)"><table>
+			<td><img src="img/sticky1.png" /></td>
+			<td><span>Sticky Note</span><span>$10</span></td>
+		</table></button>
+
+		<button class="btn" id="sticky2" onclick="buyItem(this.id, 20)"><table>
+			<td><img src="img/sticky2.png" /></td>
+			<td><span>Sticky Note</span><span>$20</span></td>
+		</table></button>
+
+		<button class="btn" id="sticky3" onclick="buyItem(this.id, 30)"><table>
+			<td><img src="img/sticky3.png" /></td>
+			<td><span>Sticky Note</span><span>$30</span></td>
+		</table></button>
+
+		<button class="btn" id="sticky4" onclick="buyItem(this.id, 40)"><table>
+			<td><img src="img/sticky4.png" /></td>
+			<td><span>Sticky Note</span><span>$40</span></td>
+		</table></button>
+
+		<button class="btn" id="sticky5" onclick="buyItem(this.id, 50)"><table>
+			<td><img src="img/sticky5.png" /></td>
+			<td><span>Sticky Note</span><span>$50</span></td>
+		</table></button>
+
+		<button class="btn" id="sticky6" onclick="buyItem(this.id, 60)"><table>
+			<td><img src="img/sticky6.png" /></td>
+			<td><span>Sticky Note</span><span>$60</span></td>
+		</table></button>
+
+		<button class="btn" id="monster" onclick="buyItem(this.id, 100)"><table>
+			<td><img src="img/monster.png" /></td>
+			<td><span>Beast Energy Drink</span><span>$100</span></td>
+		</table></button>
+	</div>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/bootbox.min.js"></script>
+	<script src="js/cookies.js"></script>
+	<script src="js/epay.js"></script>
+</body>
+</html>

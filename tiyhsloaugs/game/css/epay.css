@@ -1,0 +1,105 @@
+@font-face {
+	font-family: "Press Start 2P";
+	src: url("../fonts/PressStart2P-Regular.ttf");
+}
+
+body {
+	font-family: "Press Start 2P", sans-serif;
+	padding: 1em;
+}
+
+* {
+	font-size: 6pt !important;
+}
+h1, h2 {
+	font-size: 200% !important;
+}
+
+img {
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: -o-crisp-edges;
+	image-rendering: pixelated;
+	-ms-interpolation-mode: nearest-neighbor;
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+hr {
+	border-color: #000000;
+}
+
+table {
+	width: 100%;
+}
+
+.modal-content {
+	background: #BFBFBF;
+	box-shadow: none;
+	border: 1em solid #000;
+	border-radius: 0;
+}
+
+.modal-header, .modal-body, .modal-footer {
+	border: 0;
+}
+
+.modal-footer {
+	text-align: center;
+}
+
+.btn {
+	background: #5381DE;
+	color: #FFFFFF;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
+	border: 0;
+	border-radius: 0;
+	font-family: "Press Start 2P", sans-serif;
+	text-align: left;
+	white-space: normal;
+}
+.btn:last-child {
+	margin-bottom: 0;
+}
+.btn:hover {
+	background: #2458C0;
+	color: #FFFFFF;
+}
+.btn:active, .btn:focus {
+	color: #FFFFFF;
+}
+
+.expensive {
+	background: #C02424;
+}
+.expensive:hover {
+	background: #801818;
+}
+
+.btn span {
+	float: left;
+}
+.btn span:last-child {
+	float: right
+}
+
+button img {
+	width: 4em;
+	margin-right: 2em;
+	display: inline;
+	float: left;
+}
+
+td:first-child {
+	width: 1px;
+}

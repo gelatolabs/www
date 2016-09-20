@@ -1,0 +1,80 @@
+@font-face {
+	font-family: "Press Start 2P";
+	src: url("../fonts/PressStart2P-Regular.ttf");
+}
+
+body {
+	background: url("../img/bg.png");
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	font-family: "Press Start 2P", sans-serif;
+}
+
+* {
+	font-size: 6pt !important;
+}
+h4 {
+	font-size: 200% !important;
+}
+
+.modal-content {
+	background: #BFBFBF;
+	box-shadow: none;
+	border: 1em solid #000;
+	border-radius: 0;
+}
+
+.modal-header, .modal-body, .modal-footer {
+	border: 0;
+}
+
+.modal-footer {
+	text-align: center;
+}
+
+.btn {
+	margin-left: 0;
+	margin-top: 5px;
+	border: 0;
+	border-radius: 0;
+	white-space: normal;
+}
+
+.btn-primary {
+	background: #5381DE;
+}
+.btn-primary:hover {
+	background: #2458C0;
+}
+
+.btn-danger {
+	background: #C02424;
+}
+.btn-danger:hover {
+	background: #801818;
+}
+
+#epayContainer {
+	display: none;
+	background: url("../img/epayBorder.png");
+	background-size: contain;
+	-moz-background-size: contain;
+	-webkit-background-size: contain;
+	-o-background-size: contain;
+	position: fixed;
+	height: 90vh;
+	width: 47vh;
+	top: 5vh;
+	left: 50%;
+	margin-left: -23.5vh;
+}
+
+#epay {
+	background: #FFFFFF;
+	position: absolute;
+	left: 7%;
+	top: 16%;
+	width: 86%;
+	height: 66%;
+}
