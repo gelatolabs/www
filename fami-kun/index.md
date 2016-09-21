@@ -28,7 +28,7 @@ Credits
   <li class="collection-item avatar">
     <img src="/img/kfarwell.png" class="avatar-img">
     <span class="title">Kyle Farwell (kfarwell)</span>
-    <p>Writing and programming.</p>
+    <p>Programming and writing</p>
     <a href="https://kfarwell.org/" class="secondary-content"><i class="mdi mdi-web"></i></a>
   </li>
   <li class="collection-item avatar">
