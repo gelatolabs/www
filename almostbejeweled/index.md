@@ -25,7 +25,8 @@ Another will be chosen (the "worst gem") that will be worth less.
 
 License
 -------
-Code distributed under the ISC license. Gem graphics are from gweled.
+Code distributed under the ISC license. Gem graphics are from gweled. See
+COPYING for more details.
 
 Credits
 -------

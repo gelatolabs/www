@@ -18,7 +18,7 @@ Check out the source code on our
 License
 -------
 Code is released under the ISC license. Graphics and audio are CC-BY, except
-music is only free for non-commercial use. See README for more details.
+music is only free for non-commercial use. See COPYING for more details.
                 
 Credits
 -------
