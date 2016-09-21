@@ -18,17 +18,14 @@ Contribute
 
 <div class="card-panel">
   <h2 style="margin-top: 0">Files</h2>
-  <p>
-    Our concept work, graphics, audio, and (for smaller games) code are on our
-    file server.
-  </p>
+  <p>Our concept work, graphics, and audio are on our file server.</p>
   <p>Request edit access on XMPP.</p>
   <a href="https://files.gelatolabs.xyz/index.php/s/u9qGnkB4gelSorM" class="btn waves-effect waves-light black">Go<i class="mdi mdi-arrow-right-bold right"></i></a>
 </div>
 
 <div class="card-panel">
   <h2 style="margin-top: 0">Code</h2>
-  <p>For larger games, as well as our website, our code is on git.</p>
+  <p>Our code is on git.</p>
   <p>Request push access on XMPP.</p>
   <a href="https://git.gelatolabs.xyz/gelato" class="btn waves-effect waves-light black">Go<i class="mdi mdi-arrow-right-bold right"></i></a>
 </div>

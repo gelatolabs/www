@@ -12,6 +12,9 @@ replace Macindows with the GNOO / Gelato System.
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/rrdKB6KPr63ce4O).
 
+Check out the source code on our
+[code repository](https://git.gelatolabs.xyz/gelato/angstromsrampage).
+
 License
 -------
 Code is released under the ISC license. Graphics and audio are CC-BY, except

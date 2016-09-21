@@ -8,8 +8,11 @@ An educational game created for the
 [Apps4Learning](https://web.archive.org/web/20160129080846/http://www.apps4learning.ca/)
 program.
 
-Check out the code on our
+Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/0tOeNErkcVhcwig).
+
+Check out the source code on our
+[code repository](https://git.gelatolabs.xyz/gelato/explodingbob).
 
 License
 -------

@@ -15,6 +15,9 @@ With today's special guest: Adolf Hitler!
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/TOyp6JcNpqE0l7l).
 
+Check out the source code on our
+[code repository](https://git.gelatolabs.xyz/gelato/trumpjump).
+
 Controls
 --------
 Trump

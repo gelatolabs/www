@@ -17,6 +17,9 @@ Follow our progress on our [blog](/blog/) and
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/RJsT6KAXSHp8kcV).
 
+Check out the source code on our
+[code repository](https://git.gelatolabs.xyz/gelato/fami-kun).
+
 License
 -------
 Code is released under the ISC license. Graphics and audio are CC-BY. See

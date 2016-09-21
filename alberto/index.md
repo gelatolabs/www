@@ -23,6 +23,9 @@ and squid's inability to follow directions or do work! ;) )
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/MHY7ik8nKt7Wko8).
 
+Check out the source code on our
+[code repository](https://git.gelatolabs.xyz/gelato/alberto).
+
 License
 -------
 Code is distributed under the ISC license, and graphics under the CC BY license.

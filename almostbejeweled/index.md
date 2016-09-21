@@ -6,8 +6,11 @@ Almost Bejeweled
 
 A match-3 game.
 
-Check out the code on our
+Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/bEcpnLskptX2px0).
+
+Check out the source code on our
+[code repository](https://git.gelatolabs.xyz/gelato/almostbejeweled).
 
 How to play
 -----------

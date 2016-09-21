@@ -15,6 +15,9 @@ ePay. You monster.
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/1HIR1pPAmHpGKS2).
 
+Check out the source code on our
+[code repository](https://git.gelatolabs.xyz/gelato/tiyhsloaugs).
+
 License
 -------
 Code is released under the ISC license. Graphics and audio are CC-BY. See
