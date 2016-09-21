@@ -4,8 +4,7 @@ Mega Alberto Cousins
 
 <a href="source.tar.gz" class="btn waves-effect waves-light black"><i class="mdi mdi-code-tags left"></i>Download source</a>
 
-This is an entry to the Ludum Dare 35 Game Jam. It uses the (quite atrocious)
-[GDevelop](http://compilgames.net/) game creation system.
+A troll platformer made for the Ludum Dare 35 72-hour game development jam.
 
 Welcome to the magical world of Mega Alberto Cousins! We hope you're not prone
 to seizures, and that you enjoy the ride!
