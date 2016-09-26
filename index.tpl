@@ -113,6 +113,12 @@
             <a href="https://phil.guhnoo.org/" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
+            <img src="/img/iam.png" alt="iam" class="avatar-img ">
+            <span class="title">Ace Parent (iam)</span>
+            <p>Programmer</p>
+            <a href="http://git.starcatcher.us/iam/" class="secondary-content"><i class="mdi mdi-web"></i></a>
+          </li>
+          <li class="collection-item avatar">
             <img src="/img/you.png" alt="you" class="avatar-img ">
             <span class="title">You?</span>
             <p>Contribute!</p>
