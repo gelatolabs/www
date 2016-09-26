@@ -2,6 +2,12 @@ Error Logging Co.
 =================
 A co-operative tower defense / real-time strategy game.
 
+Development ongoing. Join our [chatroom](/xmpp) to help out.
+
+Follow our progress on our [blog](/blog/),
+[Twitter](https://twitter.com/gelato_labs), and
+[kanban](https://kanban.gelatolabs.xyz/#/board/5).
+
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/DWRrugzflMdWmdZ).
 
