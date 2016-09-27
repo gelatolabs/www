@@ -119,6 +119,19 @@
             <a href="http://git.starcatcher.us/iam/" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
+            <span class="title">Mustafa Abdul Razzaq</span>
+            <p>Programmer</p>
+            <a href="https://mustafa.kotori.me/" class="secondary-content"><i class="mdi mdi-web"></i></a>
+          </li>
+          <li class="collection-item avatar">
+            <span class="title">Matthew Rose</span>
+            <p>Artist</p>
+          </li>
+          <li class="collection-item avatar">
+            <span class="title">Katie Horne</span>
+            <p>Artist</p>
+          </li>
+          <li class="collection-item avatar">
             <img src="/img/you.png" alt="you" class="avatar-img ">
             <span class="title">You?</span>
             <p>Contribute!</p>

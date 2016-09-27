@@ -41,7 +41,7 @@ Credits
     <a href="http://git.starcatcher.us/iam/" class="secondary-content"><i class="mdi mdi-web"></i></a>
   </li>
   <li class="collection-item avatar">
-    <span class="title">Mustafa Abdul Razzaq (mustafa)</span>
+    <span class="title">Mustafa Abdul Razzaq</span>
     <p>Programming</p>
     <a href="https://mustafa.kotori.me/" class="secondary-content"><i class="mdi mdi-web"></i></a>
   </li>
