@@ -18,6 +18,34 @@ Games
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
+        <span class="card-title">Error Logging Co.</span>
+        <p>
+          A co-operative tower defense / real-time strategy game. Development ongoing.
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="/errorloggingco">More</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col s12 m6">
+    <div class="card black">
+      <div class="card-content white-text">
+        <span class="card-title">Walking Simulator 2016</span>
+        <p>
+          Walk around endlessly, somehow collecting money and buying hats.
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="/walkingsim">More</a>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m6">
+    <div class="card black">
+      <div class="card-content white-text">
         <span class="card-title">Asamade Fami-kun</span>
         <p>
           A visual novel. Development on hold.

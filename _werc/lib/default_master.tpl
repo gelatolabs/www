@@ -11,6 +11,8 @@
         </ul>
         <ul id="games-dropdown" class="dropdown-content">
           <li><a href="/catachresis" class="black-text">Catachresis</a></li>
+          <li><a href="/errorloggingco" class="black-text">Error Logging Co.</a></li>
+          <li><a href="/walkingsim" class="black-text">Walking Simulator 2016</a></li>
           <li><a href="/fami-kun" class="black-text">Asamade Fami-kun</a></li>
           <li><a href="/angstromsrampage" class="black-text">Ångst-RÖM's RAM Page</a></li>
           <li><a href="/tiyhsloaugs" class="black-text">TIYHSLOAUGS</a></li>
