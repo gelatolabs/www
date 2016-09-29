@@ -104,3 +104,8 @@ input:focus:not([type]):not([readonly]), input[type="text"]:focus:not([readonly]
 #main-copy ul li {
   list-style-type: initial;
 }
+
+.twitter-timeline {
+  border-radius: 2px;
+  border: 1px solid #E0E0E0 !important;
+}

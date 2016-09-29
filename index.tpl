@@ -44,13 +44,13 @@
         <img src="/img/logotext.svg" width="100%" alt="Gelato Labs" class="valign" style="vertical-align:middle;line-height: 500px;"/>
       </div>
       <div class="col s12 m7 offset-m1">
-        <h1><b>We</b> make video games</h1>
+        <h1>We make video games</h1>
         <p class="flow-text">
-          <b>We</b>'re a group of programmers, artists, and designers from
-          around the world who build games for fun. <b>We</b> create a variety
-          of games for different age groups, interests, and platforms. <b>We</b>
-          welcome contributions of all types and sizes from anyone, regardless
-          of age or experience.
+          We're a group of programmers, artists, and designers from around the
+          world who build games for fun. We create a variety of games for
+          different age groups, interests, and platforms. We welcome
+          contributions of all types and sizes from anyone, regardless of age or
+          experience.
         </p>
         <p>
           <a href="/games" class="btn-large waves-effect waves-light black"><i class="mdi mdi-gamepad-variant left"></i>Games</a>
@@ -81,7 +81,7 @@
     <div class="row">
       <div class="col s12 m6">
         <h3>Who are we?</h3>
-        <ul class="collection">
+        <ul id="people" class="collection">
           <li class="collection-item avatar">
             <img src="/img/kfarwell.png" alt="kfarwell" class="avatar-img ">
             <span class="title">Kyle Farwell (kfarwell)</span>
@@ -141,9 +141,19 @@
       </div>
 
       <div class="col s12 m6">
-        <img src="/img/typing.gif" width="100%" />
-        <img src="/img/irl.gif" width="100%" />
+        <h3>Updates</h3>
+        <a class="twitter-timeline" data-lang="en" data-height="600" data-dnt="true" data-theme="light" data-link-color="#53FE00" href="https://twitter.com/gelato_labs">Tweets by @gelato_labs</a>
       </div>
     </div>
   </div>
 </div>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script>
+  window.setTimeout(function() {
+    document.getElementById('twitter-widget-0').style.height = document.getElementById('people').clientHeight + "px";
+  }, 3000);
+  window.onresize = function() {
+    document.getElementById('twitter-widget-0').style.height = document.getElementById('people').clientHeight + "px";
+  }
+</script>
