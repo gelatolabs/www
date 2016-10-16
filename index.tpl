@@ -142,7 +142,7 @@
 
       <div class="col s12 m6">
         <h3>Updates</h3>
-        <a class="twitter-timeline" data-lang="en" data-height="600" data-dnt="true" data-theme="light" data-link-color="#53FE00" href="https://twitter.com/gelato_labs">Tweets by @gelato_labs</a>
+        <a class="twitter-timeline" data-lang="en" data-height="600" data-dnt="true" data-theme="light" data-link-color="#53FE00" href="https://twitter.com/gelatolabs">Tweets by @gelatolabs</a>
       </div>
     </div>
   </div>
