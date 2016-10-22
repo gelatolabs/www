@@ -6,7 +6,7 @@ Development ongoing. Join our [chatroom](/xmpp) to help out.
 
 Follow our progress on our [blog](/blog/),
 [Twitter](https://twitter.com/gelato_labs), and
-[kanban](https://kanban.gelatolabs.xyz/#/board/3).
+[kanban](https://kanban.gelatolabs.xyz/?controller=BoardViewController&action=readonly&token=e3eb42724765792d02c8080a8d1cf45ed5a709fde52d8ecce7c3f0673cae).
 
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/RJJaiIOCTlRIFzq).
