@@ -8,7 +8,7 @@ Based on José Salot's
 A sequel of sorts to
 [The Inglorious Yet Highly Stimulating Life of an Underpaid Graduate Student](/tiyhsloaugs/).
 
-<!-- Development ongoing. Join our [chatroom](/xmpp) to help out. -->
+<!-- Development ongoing. Join our [chatroom](https://gelato.krourke.org/) to help out. -->
 Development on hold.
 
 Follow our progress on our [blog](/blog/) and
