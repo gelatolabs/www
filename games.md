@@ -36,6 +36,7 @@ Games
         <span class="card-title">Walking Simulator 2016</span>
         <p>
           Walk around endlessly, somehow collecting money and buying hats.
+          Development ongoing.
         </p>
       </div>
       <div class="card-action">
@@ -64,7 +65,7 @@ Games
         <span class="card-title">This Theme Sucks</span>
         <p>
           Shove people who voted for it in the time-out room. Made for the Ludum
-          Dare 37 72-hour game development jam. In progress.
+          Dare 37 72-hour game development jam. Development ongoing.
         </p>
       </div>
       <div class="card-action">

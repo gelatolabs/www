@@ -2,6 +2,8 @@ This Theme Sucks
 ================
 Shove people who voted for it in the time-out room.
 
+Development ongoing. Join our [chatroom](/xmpp) to help out.
+
 Check out the design work and assets on our
 [file server](https://files.gelatolabs.xyz/index.php/s/rm1B55WvKd2Xs6Z).
 
