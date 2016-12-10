@@ -113,6 +113,12 @@
             <a href="https://phil.guhnoo.org/" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
+            <img src="/img/jstep33.jpg" alt="jstep33" class="avatar-img ">
+            <span class="title">Jared Stephens (jstep33)</span>
+            <p>Designer</p>
+            <a href="https://github.com/JStephens33" class="secondary-content"><i class="mdi mdi-web"></i></a>
+          </li>
+          <li class="collection-item avatar">
             <img src="/img/iam.png" alt="iam" class="avatar-img ">
             <span class="title">Ace Parent (iam)</span>
             <p>Programmer</p>
