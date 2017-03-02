@@ -12,6 +12,7 @@
         <ul id="games-dropdown" class="dropdown-content">
           <li><a href="/catachresis" class="black-text">Catachresis</a></li>
           <li><a href="/errorloggingco" class="black-text">Error Logging Co.</a></li>
+          <li><a href="/slapmaster" class="black-text">Slap Master</a></li>
           <li><a href="/walkingsim" class="black-text">Walking Simulator 2016</a></li>
           <li><a href="/fami-kun" class="black-text">Asamade Fami-kun</a></li>
           <li><a href="/thisthemesucks" class="black-text">This Theme Sucks</a></li>

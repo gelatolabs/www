@@ -33,6 +33,19 @@ Games
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
+        <span class="card-title">Slap Master</span>
+        <p>
+          A game about slapping people. Development ongoing.
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="/slapmaster">More</a>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m6">
+    <div class="card black">
+      <div class="card-content white-text">
         <span class="card-title">Walking Simulator 2016</span>
         <p>
           Walk around endlessly, somehow collecting money and buying hats.
@@ -44,6 +57,8 @@ Games
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -57,8 +72,6 @@ Games
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -73,6 +86,8 @@ Games
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -86,8 +101,6 @@ Games
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -102,6 +115,8 @@ Games
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -115,8 +130,6 @@ Games
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -132,6 +145,8 @@ Games
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
