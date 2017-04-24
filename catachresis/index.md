@@ -27,7 +27,7 @@ Credits
     <img src="/img/fire219.png" class="avatar-img">
     <span class="title">Matthew Petry (fire219)</span>
     <p>Graphics and audio</p>
-    <a href="https://fire219.kotori.me/" class="secondary-content"><i class="mdi mdi-web"></i></a>
+    <a href="https://matthew.petrys.net/" class="secondary-content"><i class="mdi mdi-web"></i></a>
   </li>
   <li class="collection-item avatar">
     <img src="/img/krourke.png" class="avatar-img">

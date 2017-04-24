@@ -6,9 +6,9 @@ Sleep Deprivation and Bad Writing: The Visual Novel
 
 A visual novel made for the Ludum Dare 38 72-hour game development jam.
 
-> oh my god
-> im going through this game
-> im losing brain cells
+<blockquote>oh my god<br />
+im going through this game<br />
+im losing brain cells</blockquote>
 
 -mustafa
 

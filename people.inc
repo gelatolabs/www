@@ -9,7 +9,7 @@
             <img src="/img/fire219.png" alt="fire219" class="avatar-img ">
             <span class="title">Matthew Petry (fire219)</span>
             <p>Artist</p>
-            <a href="https://fire219.kotori.me/" class="secondary-content"><i class="mdi mdi-web"></i></a>
+            <a href="https://matthew.petrys.net/" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
             <img src="/img/krourke.png" alt="krourke" class="avatar-img ">
