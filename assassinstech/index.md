@@ -19,7 +19,7 @@ Credits
     <a href="https://kfarwell.org/" class="secondary-content"><i class="mdi mdi-web"></i></a>
   </li>
   <li class="collection-item avatar">
-    <img src="/img/jakelly.png" class="avatar-img">
+    <img src="/img/jakelly.jpg" class="avatar-img">
     <span class="title">Jared Kelly (AstronautGuy)</span>
     <p>Programming</p>
     <a href="http://jaredkelly.ca/" class="secondary-content"><i class="mdi mdi-web"></i></a>
