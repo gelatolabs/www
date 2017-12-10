@@ -105,6 +105,21 @@ Games
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
+        <span class="card-title">Assassins.TECH</span>
+        <p>
+          Assassins.TECH is a twist on the classic game Assassin using SMS text messaging.
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="/assassinstech">More</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col s12 m6">
+    <div class="card black">
+      <div class="card-content white-text">
         <span class="card-title">Ångst-RÖM's RAM Page</span>
         <p>
           A puzzle game made for the Ludum Dare 36 72-hour game development jam.
@@ -115,8 +130,6 @@ Games
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -131,6 +144,8 @@ Games
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -144,8 +159,6 @@ Games
       </div>
     </div>
   </div>
-</div>
-<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
@@ -161,6 +174,8 @@ Games
       </div>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
