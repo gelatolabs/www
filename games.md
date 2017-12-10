@@ -74,6 +74,19 @@ Games
     </div>
   </div>
   <div class="col s12 m6">
+      <div class="card black">
+       <div class="card-content white-text">
+         <span class="card-title">Assassins.Tech</span>
+         <p>
+           Assassins.TECH is a twist on the classic game Assassin using SMS text messaging.
+         </p>
+       </div>
+       <div class="card-action">
+         <a href="/assassinstech">More</a>
+       </div>
+      </div>
+  </div>
+  <div class="col s12 m6">
     <div class="card black">
       <div class="card-content white-text">
         <span class="card-title">Ångst-RÖM's RAM Page</span>

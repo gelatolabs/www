@@ -42,6 +42,12 @@
             <a href="http://git.starcatcher.us/iam/" class="secondary-content"><i class="mdi mdi-web"></i></a>
           </li>
           <li class="collection-item avatar">
+            <img src="/img/jakelly.jpg" alt="AstronautGuy" class="avatar-img ">
+            <span class="title">Jared Kelly (AstronautGuy)</span>
+            <p>Programmer</p>
+            <a href="http://jaredkelly.ca/" class="secondary-content"><i class="mdi mdi-web"></i></a>
+          </li>
+          <li class="collection-item avatar">
             <span class="title">Mustafa Abdul Razzaq</span>
             <p>Programmer</p>
             <a href="https://mustafa.kotori.me/" class="secondary-content"><i class="mdi mdi-web"></i></a>
