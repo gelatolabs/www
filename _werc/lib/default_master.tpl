@@ -15,6 +15,7 @@
           <li><a href="/walkingsim" class="black-text">Walking Simulator 2016</a></li>
           <li><a href="/fami-kun" class="black-text">Asamade Fami-kun</a></li>
           <li><a href="/thisthemesucks" class="black-text">This Theme Sucks</a></li>
+          <li><a href="/assassinstech" class="black-text">Assassins.Tech</a></li>
           <li><a href="/angstromsrampage" class="black-text">Ångst-RÖM's RAM Page</a></li>
           <li><a href="/tiyhsloaugs" class="black-text">TIYHSLOAUGS</a></li>
           <li><a href="/almostbejeweled" class="black-text">Almost Bejeweled</a></li>
