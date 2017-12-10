@@ -1,5 +1,5 @@
-Assassins.Tech
-================
+Assassins.TECH
+==============
 Assassins.TECH is a twist on the classic game Assassin using SMS text messaging.
 
 Check out the source code on our
@@ -7,7 +7,7 @@ Check out the source code on our
 
 License
 -------
-Code is released under the ISC license. See COPYING for more details.
+Code is released under the ISC license.
                 
 Credits
 -------
@@ -19,7 +19,7 @@ Credits
     <a href="https://kfarwell.org/" class="secondary-content"><i class="mdi mdi-web"></i></a>
   </li>
   <li class="collection-item avatar">
-    <img src="/img/jakelly.jpg" class="avatar-img">
+    <img src="/img/astronautguy.jpg" class="avatar-img">
     <span class="title">Jared Kelly (AstronautGuy)</span>
     <p>Programming</p>
     <a href="http://jaredkelly.ca/" class="secondary-content"><i class="mdi mdi-web"></i></a>
