@@ -47,3 +47,4 @@ Do not attempt to connect to gelato with gopher. Gopher may consume gelato.
 Beware of fishing scams. Gelato is not effective bait.
 Java flavoured gelato is neither particularly tasty, nor affiliated with Oracle.
 Do not attempt to script procedures with gelato. Gelato does not have a stable API and is wildly unpredictable.
+Gelato likes to game giveaways on the internet. Gelato likes free t-shirts.
